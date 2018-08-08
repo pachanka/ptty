@@ -1,6 +1,8 @@
 # ptty.jquery.js
 
-## Moved to [gitlab.com/pachanka/ptty](https://gitlab.com/pachanka/ptty).
+Ptty is a jQuery plugin that creates an expansible terminal emulator. It is small, it is fast and it is fully customizable by adding commands and callbacks.
+
+## Project moved to [gitlab.com/pachanka/ptty](https://gitlab.com/pachanka/ptty).
 
 ## Demo & Docs
 
